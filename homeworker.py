@@ -1,7 +1,7 @@
 from gui import *
 def showdoc():
 	Print(title="提醒：",text="""这个程序属于
-		草方块工作室，
+		方块娱乐，
 		请谨慎使用。""")
 def 获取因数():
 	shu=eval(input("请输入数:"))
